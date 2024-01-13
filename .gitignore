@@ -5,7 +5,7 @@ trr/token
 trr/cloudid
 
 # Local .terraform directories
-trr/**/.terraform/*
+**/.terraform/*
 
 # Local .infracost directories
 trr/**/.infracost/*
