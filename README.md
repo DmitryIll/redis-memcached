@@ -59,3 +59,20 @@
 
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 ![Alt text](image-6.png)
+
+### Дополнительно
+
+![Alt text](image-7.png)
+
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-15.png)
+![Alt text](image-18.png)
+![Alt text](image-20.png)
